@@ -1,5 +1,5 @@
 # OSI(Open System Interconnect) reference model
 
- - Application
- - 
-
+- Application
+- Presentation
+- Session 
