@@ -2,7 +2,7 @@
 
 - Application
 - Presentation
-- Session 
+- Session
 - Transport
 - Network
 - Data Link
